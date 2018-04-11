@@ -1,2 +1,2 @@
 # docs
-South Coast Science organisation wiki
+A table of contents for South Coast Science wikis
